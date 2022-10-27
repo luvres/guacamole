@@ -1,6 +1,6 @@
 # Guacamole with docker-compose
 
-Fork from [https://github.com/boschkundendienst/guacamole-docker-compose]
+Fork from [guacamole-docker-compose](https://github.com/boschkundendienst/guacamole-docker-compose)
 
 This is a small documentation how to run a fully working **Apache Guacamole (incubating)** instance with docker (docker-compose). The goal of this project is to make it easy to test Guacamole.
 
